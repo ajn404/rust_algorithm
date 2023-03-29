@@ -1,3 +1,5 @@
+mod util;
+
 mod binary_arr_addition; //
 mod heap_sort;
 mod insertion_sort; //插入排序

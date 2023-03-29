@@ -1,3 +1,5 @@
+mod priority_queue;
+
 mod heap_sort {
 
     pub fn _heap_sort<T: Ord>(arr: &mut [T]) {
