@@ -7,3 +7,4 @@ mod leetcode; //leetcode
 mod matmul; //n维矩阵相乘
 mod max_subarray; //最大子数组
 mod merge_sort; //归并排序 //堆排序
+mod quick_sort;
