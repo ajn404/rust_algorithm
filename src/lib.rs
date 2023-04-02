@@ -1,6 +1,7 @@
 mod util;
 
 mod binary_arr_addition; //
+mod counting_sort;
 mod heap_sort;
 mod insertion_sort; //插入排序
 mod leetcode; //leetcode
